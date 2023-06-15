@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278938636291",
+    "project_id": "onesignal-4bb06",
+    "storage_bucket": "onesignal-4bb06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278938636291:android:dfda2bbb9e42f502723e36",
+        "android_client_info": {
+          "package_name": "com.notificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278938636291-oog9s9ou0hbb4fnujc7611u8aln84ofv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcFY6nliuNBmRCI4XXbceY-OwL-wTD658"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278938636291-oog9s9ou0hbb4fnujc7611u8aln84ofv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
